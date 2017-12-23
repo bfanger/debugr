@@ -1,3 +1,7 @@
+[![Maintenance](https://img.shields.io/maintenance/no/2014.svg)]()
+
+We switched to [Laravel](https://laravel.com) and [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar) by [@barryvdh](https://github.com/barryvdh) which uses [PHP Debug Bar](http://phpdebugbar.com) under the hood.
+
 # DebugR
 
 A method to send debugging information alongside your XMLHTTPRequest.
